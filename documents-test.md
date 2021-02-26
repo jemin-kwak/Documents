@@ -7,4 +7,8 @@
 admin:
 admin:
 ```
-
+```text
+>> configure admin
+admin:
+admin:
+```
